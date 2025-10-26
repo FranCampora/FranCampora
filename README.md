@@ -64,6 +64,7 @@
 ---
 
 ### 🧩 Others / Otros
+![Notion](https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=notion&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-808080?style=for-the-badge&logo=image-line&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-808080?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![Pro Tools](https://img.shields.io/badge/Pro%20Tools-808080?style=for-the-badge&logo=avid&logoColor=white)
