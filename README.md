@@ -64,16 +64,19 @@
 ---
 
 ### 🧩 Others / Otros
-![Notion](https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=notion&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL%20Studio-808080?style=for-the-badge&logo=image-line&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/Ableton%20Live-808080?style=for-the-badge&logo=abletonlive&logoColor=white)
-![Pro Tools](https://img.shields.io/badge/Pro%20Tools-808080?style=for-the-badge&logo=avid&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-808080?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-808080?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-808080?style=for-the-badge&logo=Canva&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-808080?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-808080?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<!-- Primera fila -->
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![FL Studio](https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=image-line&logoColor=white)](https://www.image-line.com/fl-studio/)
+[![Ableton Live](https://img.shields.io/badge/Ableton%20Live-FAFAFA?style=for-the-badge&logo=abletonlive&logoColor=black)](https://www.ableton.com/)
+[![Pro Tools](https://img.shields.io/badge/Pro%20Tools-0A0A0A?style=for-the-badge&logo=avid&logoColor=white)](https://www.avid.com/pro-tools)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+
+<!-- Segunda fila -->
+[![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-F25022?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
 ---
 
